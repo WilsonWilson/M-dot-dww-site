@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+
+<link href="m-styles.css" rel="stylesheet" type="test/css"/>
+
+</head>
+
+<body>
+	
+    <!--#include file="header.html" -->
+        
+    <!-- START CONTENT -->
+    
+<main>
+	<div class="sticky-container">
+        <h1 class="section-header">
+            Shopping Cart
+        </h1>
+        
+        <div class="cart-sub-total">
+            <div class="subtotal-title">Subtotal</div>
+            <div class="subtotal-price">$129.78</div>
+        </div>
+    
+         <div class="cart-items">
+            <ul>
+                <li>
+                    <a href="product-detail.shtml">
+                    <div class="cart-image">
+                        <img src="http://www.doheny.com/media/catalog/product/cache/1/small_image/145x145/9df78eab33525d08d6e5fb8d27136e95/4/8/4825_9.jpg"/>
+                    </div>
+                    </a>
+                    <div class="cart-prod-copy-box">
+                        <a href="product-detail.shtml">
+                        <div class="cart-prod-title">Doheny's Chlroine 3" Tabs</div>
+                        <div class="cart-low-as-text">Free Shipping</div>
+                        <div class="cart-was-price">was $129.99</div>
+                        <div class="cart-price">$109.99</div>
+                        </a>
+                        <div class="cart-btns">
+                            <div class="cart-remove">Remove</div>
+                            <div class="cart-spinner">Qty :
+                                <input id="content" value="1" type="text" style="width:20px" />
+                                <a id="down" href="#" onclick="updateSpinner(this);">-</a>
+                                <a id="up" href="#"  onclick="updateSpinner(this);">+</a>
+                             </div>
+                        </div>
+                    </div>
+                </li>
+                
+                <li>
+                    <a href="product-detail.shtml">
+                    <div class="cart-image">
+                        <img src="http://www.doheny.com/media/catalog/product/cache/1/small_image/145x145/9df78eab33525d08d6e5fb8d27136e95/4/8/4890-a-sq-new_1.jpg"/>
+                    </div>
+                    </a>
+                    <div class="cart-prod-copy-box">
+                        <a href="product-detail.shtml">
+                        <div class="cart-prod-title">Winter Closing Value Kits</div>
+                        <div class="cart-low-as-text">Free Shipping</div>
+                        <div class="cart-was-price">was $21.99</div>
+                        <div class="cart-price">$19.79</div>
+                        </a>
+                        <div class="cart-btns">
+                            <div class="cart-remove">Remove</div>
+                            <div class="cart-spinner">Qty :
+                                <input id="content" value="1" type="text" style="width:20px" />
+                                <a id="down" href="#" onclick="updateSpinner(this);">-</a>
+                                <a id="up" href="#"  onclick="updateSpinner(this);">+</a>
+                             </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+         </div>
+         
+        <ul class="cart-totals">
+            <li>
+            	<div class="cost-type">Product Subtotal :</div>
+                <div class="cost">$129.78</div>
+            </li>
+            <li>
+            	<div class="cost-type">Shipping :</div>
+                <div class="cost">FREE</div>
+            </li>
+            <li>
+            	<div class="cost-type">Handling :</div>
+                <div class="cost">$10.99</div>
+            </li>
+            <li>
+            	<div class="cost-type">Tax :</div>
+                <div class="cost"></div>
+            </li>
+            <li>
+            	<div class="cost-type">Total :</div>
+                <div class="cost">139.77</div>
+            </li>
+        </ul>
+       
+       <div class="checkout-button">
+            <a href="#">Checkout Now</a>
+       </div>
+   </div>
+</main>
+   
+   <script>
+   function updateSpinner(obj)
+		{
+			var contentObj = document.getElementById("content");
+			var value = parseInt(contentObj.value);
+			if(obj.id == "down") {
+				value--;
+			} else {
+				value++;
+			}
+			contentObj.value = value;
+		}
+   </script>
+   
+   <!--#include file="footer.html" -->
+
+</body>
+</html>

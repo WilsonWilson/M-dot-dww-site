@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+
+<link href="m-styles.css" rel="stylesheet" type="test/css"/>
+
+</head>
+
+<body>
+	
+    <!--#include file="header.html" -->
+        
+    <!-- START CONTENT -->
+    
+  <main>
+    <div class="feature-container product-detail-main-img">
+         <img src="http://www.doheny.com/media/catalog/product/cache/1/image/360x/9df78eab33525d08d6e5fb8d27136e95/4/8/4825_9.jpg"/>
+    </div>
+    <div class="product-detail-main-info-container">
+    <h1>Swimming Pool Chlorine 3&quot; Tabs</h1>
+    	<div class="product-detail-main-info-container-left">
+            <div class="product-detail-pricing">
+                <div class="pd-was">Was $2.49/lb.</div>
+                <div class="pd-now-low-as">Now low as</div>
+                <div class="pd-price">$2.09/lb</div>
+            </div>
+        </div>
+    
+    	<div class="product-detail-main-info-container-right">
+            <div class="star-container">
+            	<div class="star-fill" style="width:95%;"></div>
+                <div class="star-cover"><img src="http://www.doheny.com/media/images/m/5-star-cover.png"/></div>
+            </div>
+            <div class="delivery-type"><span>FREE</span> Next Day Delivery</div>
+        </div>
+    </div>
+    
+    <table class="multi-sku-table" width="100%" border="0" cellspacing="0" cellpadding="1">
+      <tr class="multi-sku-header">
+        <td>Product</td>
+        <td>Price</td>
+        <td>Per lb</td>
+        <td>Qty</td>
+      </tr>
+      <tr>
+        <td>10 lbs</td>
+        <td class="multi-sku-table-price"><div>was $39.99</div><div><span>now $35.99</span></div></td>
+        <td>$3.59</td>
+        <td><input type="number" pattern="\d*" class="multi-sku-qty" /></td>
+      </tr>
+      <tr>
+        <td>25 lbs</td>
+        <td class="multi-sku-table-price"><div>was $69.99</div><div><span>now $62.99</span></div></td>
+        <td>$2.51</td>
+        <td><input type="number" pattern="\d*" class="multi-sku-qty" /></td>
+      </tr>
+      <tr>
+        <td>50 lbs</td>
+        <td class="multi-sku-table-price"><div>was $116.49</div><div><span>now $104.99</span></div></td>
+        <td>$2.09</td>
+        <td><input type="number" pattern="\d*" class="multi-sku-qty" /></td>
+      </tr>
+      <tr>
+        <td>100 lbs</td>
+        <td class="multi-sku-table-price"><div>was $232.99</div><div><span>now $209.99</span></div></td>
+        <td>$2.09</td>
+        <td><input type="number" pattern="\d*" class="multi-sku-qty" /></td>
+      </tr>
+    </table>
+    
+    <div class="add-to-cart-btn">
+    	<a href="#">Add to Cart</a>
+    </div>
+    
+    <div class="product-HTML">
+    	<ul>
+        	<li>Safe and Pure</li>
+            <li>Made in the USA</li>
+            <li>Save up to 50%</li>
+            <li>90% Stabilized</li>
+            <li>Easy Open Bucket</li>
+        </ul>
+    </div>
+    
+    <div class="product-description">
+        <div class="top-sellers-bar">Product Description</div>
+        <p>COMPARE TO BIOGUARD™, SUN™, GUARDEX™, Leslie's™, and PACE™.</p>
+        <p>You want the water in your swimming pool to be clean and safe using the best products at the lowest price, and so do we. Our 3-inch chlorine tablets have a perfect balance of 90% stabilized chlorine and 99% active ingredients to stop bacteria and algae growth in its tracks. Plus, they stabilize against the sun’s destructive UV rays to prevent swimming pool chlorine burn-off. The chlorine is locked in the pool water so you use less swimming pool chemicals, which saves you money. Each chlorine tab is slow dissolving and individually wrapped for easy handling.</p>
+        <p>All of our swimming pool chlorine tabs contain the same formula as many of our competitors. However, you will spend up to 50% less with Doheny’s fresh, pure, uncontaminated pool chlorine tabs at a volume discount price.</p>
+    </div>
+    
+    <div class="product-description">
+        <div class="top-sellers-bar">Product Specifications</div>
+        <p>COMPARE TO BIOGUARD™, SUN™, GUARDEX™, Leslie's™, and PACE™.</p>
+        <p>90% stabilized chlorine and 99% active ingredients</p>
+        <p>Made in the USA</p>
+        <p>E-Z Open Bucket</p>
+        <p>Odor control</p>
+        <p>Child-resistant packaging</p>
+        <p>Individually wrapped</p>
+        <p class="npm-upc">
+        	<span class="mpn">MPN: 12000094</span> 
+            <span class="upc">UPC: 0660174102551 : 10 lbs.</span>
+        </p>
+        <p class="npm-upc">
+        	<span class="mpn">MPN: 12000094</span> 
+            <span class="upc">UPC: 0660174102551 : 25 lbs.</span>
+        </p>
+        <p class="npm-upc">
+        	<span class="mpn">MPN: 12000094</span> 
+            <span class="upc">UPC: 0660174102551 : 50 lbs.</span>
+        </p>
+    </div>
+  
+  </main>  
+       
+   <!--#include file="footer.html" -->
+
+</body>
+</html>

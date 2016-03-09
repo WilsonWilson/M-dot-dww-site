@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+
+<link href="m-styles.css" rel="stylesheet" type="test/css"/>
+
+</head>
+
+<body>
+	
+    <!--#include file="header.html" -->
+        
+    <!-- START CONTENT -->
+    
+  <main>
+    <div class="feature-container cat-header">
+         <div class="cat-banner-img"><img src="http://www.doheny.com/media/images/m/145x145-equip.png"/></div>
+    	 <h1>Pool Equipment</h1>
+         <h2>Everything you need at the guaranteed lowest price.</h2>
+    </div>
+    
+    <div class="ig-ag-cat-nav-mask">
+    	<div class="ig-ag-cat-nav-container">
+            <div class="ig-ag-cat-nav-left">
+                <div class="cat-nav">
+                    <ul>
+                        <li><a class="ig-nav-btn">In-Ground Equipment <span>&#9654;</span></a></li>
+                        <li><a class="ag-nav-btn">Above Ground Equipment <span>&#9654;</span></a></li>
+                        <li><a class="all-nav-btn">All Equipment <span>&#9654;</span></a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="ig-ag-cat-nav-right">
+                <div class="cat-nav">
+                    <ul>
+                        <li class="ig-nav-items nav-header"><a>In-Ground Equipment</a></li>
+                        <li class="ig-nav-items"><a href="#">Pool Pumps <span>&#9654;</span></a></li>
+                        <li class="ig-nav-items"><a href="#">Pool Filters <span>&#9654;</span></a></li>
+                        <li class="ig-nav-items"><a href="#">Pool Heaters &amp; Heat Pumps <span>&#9654;</span></a></li>
+                        <li class="ig-nav-items"><a href="#">Salt Generators <span>&#9654;</span></a></li>
+                        <li class="ig-nav-items"><a href="#">Chlorine Feeders <span>&#9654;</span></a></li>
+                        <li class="ig-nav-items"><a href="#">Sand &amp; DE <span>&#9654;</span></a></li>
+                        
+                        <li class="ag-nav-items nav-header"><a>Above Ground Equipment</a></li>
+                        <li class="ag-nav-items"><a href="#">Pool Pumps <span>&#9654;</span></a></li>
+                        <li class="ag-nav-items"><a href="#">Pool Filters <span>&#9654;</span></a></li>
+                        <li class="ag-nav-items"><a href="#">Pool Heaters &amp; Heat Pumps <span>&#9654;</span></a></li>
+                        <li class="ag-nav-items"><a href="#">Salt Generators <span>&#9654;</span></a></li>
+                        <li class="ag-nav-items"><a href="#">Chlorine Feeders <span>&#9654;</span></a></li>
+                        <li class="ag-nav-items"><a href="#">Sand &amp; DE <span>&#9654;</span></a></li>
+                        
+                        <li class="all-nav-items nav-header"><a>All Equipment</a></li>
+                        <li class="all-nav-items"><a href="#">Pool Pumps <span>&#9654;</span></a></li>
+                        <li class="all-nav-items"><a href="#">Pool Filters <span>&#9654;</span></a></li>
+                        <li class="all-nav-items"><a href="#">Pool Heaters &amp; Heat Pumps <span>&#9654;</span></a></li>
+                        <li class="all-nav-items"><a href="#">Salt Generators <span>&#9654;</span></a></li>
+                        <li class="all-nav-items"><a href="#">Chlorine Feeders <span>&#9654;</span></a></li>
+                        <li class="all-nav-items"><a href="#">Sand &amp; DE <span>&#9654;</span></a></li>
+                        
+                        <li class="back-li"><a class="all-nav-back-btn"><span class="back">&larr;</span> Back</a></li>
+                    </ul>
+                </div>
+            </div>
+         </div>
+    </div>
+       
+ </main>
+   
+   <!--#include file="footer.html" -->
+	<script src="js/ig-ag-all-cat-script.js"></script>
+
+</body>
+</html>

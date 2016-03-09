@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+
+<link href="m-styles.css" rel="stylesheet" type="test/css"/>
+
+</head>
+
+<body>
+	
+    <!--#include file="header.html" -->
+        
+    <!-- START CONTENT -->
+    
+  <main>
+  	<div class="feature-container home-flash">
+	    <a href="product-detail.shtml">
+            <h3>Save on Chlorine 3" Tabs</h3>
+            <div class="flash-was-price">was $2.49/lb</div>
+            <div class="flash-now-price-text">Now low as</div>
+            <div class="flash-price"><sup>$</sup>2<sup>09/lb</sup></div>
+            <span class="flash-shop">Shop now</span>   
+            <img class="image" src="http://www.doheny.com/media/images/m/m-flash-4824.png"/>     
+        </a>
+    </div>
+    <div class="ag-ig-button-contianer">
+        <a class="ag-ig-btn shop-ag-btn" href="">Shop Above Ground</a>
+        <a class="ag-ig-btn shop-ig-btn" href="">Shop Inground</a>
+    </div>
+    
+    
+    <!--<h2 class="section-header">Shop by Category</h2>-->
+    <div class="shop-category-category"><a href="chemicals.shtml">Chemicals </a></div>
+    <div class="shop-category-category"><a href="equipment.shtml">Equipment </a></div>
+    <div class="shop-category-category"><a href="cleaners.shtml">Cleaners </a></div>
+    <div class="shop-category-category"><a href="solar.shtml">Solar </a></div>
+    <div class="shop-category-category"><a href="liners.shtml">Liners </a></div>
+    <div class="shop-category-category"><a href="covers.shtml">Covers </a></div>
+    <div class="shop-category-category"><a href="accessories.shtml">Accessories </a></div>
+    <div class="shop-category-category"><a href="pools.shtml">Pools </a></div>
+    <div class="shop-category-category"><a href="clearance.shtml">Clearance </a></div>
+    
+    
+    <div class="top-sellers-bar">Top Sellers</div>
+   <div class="m-home-square-ad-container">
+    	<div class="m-home-square-ad m-home-square-ad">
+        	<div class="m-home-square-ad-box">
+                <div class="hsq-image"><img src="http://www.doheny.com/media/catalog/product/cache/1/small_image/145x145/9df78eab33525d08d6e5fb8d27136e95/s/u/super-shock-thumb-w-flag.jpg"/></div>
+            	<div class="hsq-prod-title">Doheny's Super Shock</div>
+                <div class="hsq-low-as-text">Now low as</div>
+                <div class="hsq-price"><sup>$</sup>2<sup>49/lb</sup></div>
+                <div class="hsq-shop">Shop</div>
+        	</div>
+        </div>
+    </div>
+    <div class="m-home-square-ad-container">
+    	<div class="m-home-square-ad m-home-square-ad">
+        	<div class="m-home-square-ad-box">
+                <div class="hsq-image"><img src="http://www.doheny.com/media/catalog/product/cache/1/small_image/145x145/9df78eab33525d08d6e5fb8d27136e95/s/a/sa-plus-thumb-w-flag.jpg"/></div>
+            	<div class="hsq-prod-title">Doheny's Super Algaecide Plus</div>
+                <div class="hsq-low-as-text">Now low as</div>
+                <div class="hsq-price"><sup>$</sup>13<sup>49/qt</sup></div>
+                <div class="hsq-shop">Shop</div>
+        	</div>
+        </div>
+    </div>
+    <div class="m-home-square-ad-container">
+    	<div class="m-home-square-ad m-home-square-ad">
+        	<div class="m-home-square-ad-box">
+                <div class="hsq-image"><img src="http://www.doheny.com/media/catalog/product/cache/1/image/360x/9df78eab33525d08d6e5fb8d27136e95/1/0/100-blue_18.jpg"/></div>
+            	<div class="hsq-prod-title">Clear-Tek Solar Pool Covers</div>
+                <div class="hsq-low-as-text">Now low as</div>
+                <div class="hsq-price"><sup>$</sup>20<sup>99</sup></div>
+                <div class="hsq-shop">Shop</div>
+        	</div>
+        </div>
+    </div>
+   
+  </main>
+   
+   <!--#include file="footer.html" -->
+
+</body>
+</html>
